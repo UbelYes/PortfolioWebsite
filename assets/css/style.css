@@ -348,7 +348,7 @@
         /* ── SECTIONS ── */
         .section {
             padding: 60px 40px;
-            max-width: 900px;
+            max-width: 1500px;
             margin: 0 auto;
         }
 
@@ -391,7 +391,7 @@
 
         .op-desc-label {
             font-family: var(--mono);
-            font-size: 9px;
+            font-size: 30px;
             color: var(--gold);
             letter-spacing: 3px;
             margin-bottom: 12px;
@@ -399,7 +399,7 @@
 
         .op-desc p {
             color: var(--text);
-            font-size: 14px;
+            font-size: 16px;
             line-height: 1.8;
             margin-bottom: 10px;
         }
@@ -439,14 +439,14 @@
 
         .skill-name {
             font-family: var(--mono);
-            font-size: 11px;
+            font-size: 20px;
             color: #fff;
             letter-spacing: 1px;
             margin-bottom: 8px;
         }
 
         .skill-tags {
-            font-size: 11px;
+            font-size: 15px;
             color: var(--text-dim);
             line-height: 1.6;
         }
